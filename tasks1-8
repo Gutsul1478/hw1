@@ -1,0 +1,55 @@
+//alert("Khudytskyi"); task 2
+//task 3
+//let a = "Hi guys";
+//let b = "Come on everybody"; 
+//alert(a);
+//alert(b);
+//task 4
+//var myCounry = new Object();
+//myCounry.in = "Europ";
+//myCounry.name = "Ukraine";
+//myCounry.age = "31";
+//myCounry.independent = true;
+//task 5 
+//result = confirm("isAdult");
+//task 6
+//const  Object = {
+//age: "19",
+//group: "Lv-730.JS Core",
+//name: "Oleksandr",
+//surname: "Khudytskyi",
+//};
+//task 7 
+//var sign = prompt("Dear User, your email is usermale@gmail.com");
+//if (sign.toLowerCase() =="usermale@gmail.com" ) {
+  //  alert("It is clear");
+//}
+//var sign = prompt("Your passoword qwert");
+//if (sign.toLowerCase() =="qwert" ) {
+  //  alert("Well done");
+//}
+//Task 8
+//let a = "60"; 
+//let b = "60";
+//let c = "24";
+//let d = "30";
+//alert(a*b*c*d); 
+
+
+// html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Newwww </title>
+       // <script src="script.js"></script>
+    </head>
+
+
+    <body>
+
+//<script type="text/javascript">
+    //alert("Oleksandr"); task 1
+//</script>
+    </body>
+</html>
